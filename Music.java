@@ -14,7 +14,7 @@ public class Music {
     // Method to add a song to the playlist
     public void addSong(String song) {
         playlist.add(song);
-        System.out.println("Song added: " + song);
+        System.out.println("Song added   : " + song);
     }
 
     // Method to delete a song from the playlist
